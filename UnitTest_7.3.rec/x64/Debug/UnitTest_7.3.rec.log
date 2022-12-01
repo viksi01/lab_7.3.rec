@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  UnitTest_7.3.rec.cpp
+D:\НУЛП\АП\lab_7.3.rec\lab_7.3.rec\lab_7.3.rec.cpp(61,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\НУЛП\АП\lab_7.3.rec\UnitTest_7.3.rec\UnitTest_7.3.rec.cpp(16,17): warning C4101: 's1': unreferenced local variable
+D:\НУЛП\АП\lab_7.3.rec\UnitTest_7.3.rec\UnitTest_7.3.rec.cpp(16,14): warning C4101: 's': unreferenced local variable
+D:\НУЛП\АП\lab_7.3.rec\UnitTest_7.3.rec\UnitTest_7.3.rec.cpp(16,11): warning C4101: 'j': unreferenced local variable
+D:\НУЛП\АП\lab_7.3.rec\UnitTest_7.3.rec\UnitTest_7.3.rec.cpp(16,8): warning C4101: 'i': unreferenced local variable
+     Creating library D:\НУЛП\АП\lab_7.3.rec\x64\Debug\UnitTest_7.3.rec.lib and object D:\НУЛП\АП\lab_7.3.rec\x64\Debug\UnitTest_7.3.rec.exp
+  UnitTest_7.3.rec.vcxproj -> D:\НУЛП\АП\lab_7.3.rec\x64\Debug\UnitTest_7.3.rec.dll
